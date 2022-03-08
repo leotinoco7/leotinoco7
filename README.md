@@ -1,8 +1,8 @@
 ## Oi! Meu nome é Leonardo Tinoco, sou Desenvolvedor Full Stack Jr.
 <div align="center">
   <a href="https://github.com/leotinoco7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco7&layout=compact&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leotinoco7&show_icons=true&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco7&layout=compact&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leotinoco7&show_icons=true&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
