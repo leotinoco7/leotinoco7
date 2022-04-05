@@ -1,5 +1,6 @@
-## Oi! Meu nome é Leonardo Tinoco, sou Desenvolvedor Full Stack Jr.
+
 <div align="center">
+  ## Oi! Meu nome é Leonardo Tinoco, sou Desenvolvedor Full Stack Jr.
   <a href="https://github.com/leotinoco7">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco7&layout=compact&theme=highcontrast"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leotinoco7&show_icons=true&theme=highcontrast"/>
