@@ -3,7 +3,6 @@
   <a href="https://github.com/leotinoco7">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco7&layout=compact&theme=highcontrast"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leotinoco7&show_icons=true&theme=highcontrast"/>
-</div>
 <div style="display: inline_block"><br>
 <img src="https://user-images.githubusercontent.com/44854361/157684331-c40d6d98-9af4-46c9-bab0-54057636894f.png">
   <img src="https://user-images.githubusercontent.com/44854361/157684395-f807a588-94c3-4426-b04f-cc0e77e9bc24.png">
@@ -23,4 +22,5 @@
  
   ![Snake animation](https://github.com/leotinoco7/leotinoco7/blob/main/github-user-contribution.svg)
  
+</div>
 </div>
